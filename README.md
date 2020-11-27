@@ -19,4 +19,5 @@
   7. 추가 예정 
     1. 없음
     2. 리드미에 사진 추가하고 싶은데 안되나 ?
+    <img src="https://user-images.githubusercontent.com/37294326/100441558-02a85980-30ea-11eb-9721-650de8b7fb0c.png" width="90%"></img>
     

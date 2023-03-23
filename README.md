@@ -21,5 +21,6 @@
   7. 추가 예정 
     1. 없음
     2. 
+  8. commit test
     <img src="https://user-images.githubusercontent.com/37294326/100441558-02a85980-30ea-11eb-9721-650de8b7fb0c.png" width="90%"></img>
     
